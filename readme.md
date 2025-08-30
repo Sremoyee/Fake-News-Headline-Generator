@@ -8,13 +8,6 @@
 ## Here's a look at the application in action.
  <img width="1505" height="290" alt="image" src="https://github.com/user-attachments/assets/83f306fe-143e-40eb-b58c-2338b705719f" />
 
-![alt text](<Screenshot 2025-08-30 171119.png>)
-
-![alt text](<Screenshot 2025-08-30 171142.png>)
-
-
-
-
 
 ## 🛠️ Technology Stack
 
