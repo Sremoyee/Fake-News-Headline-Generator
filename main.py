@@ -43,5 +43,5 @@ while True:
     if user_input == "no":
         break
 
-    print("\nThank you for using the Fake Headline Generator, have a fun day ahead!")
+print("\nThank you for using the Fake Headline Generator, have a fun day ahead!")
 
